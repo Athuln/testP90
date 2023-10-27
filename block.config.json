@@ -2,8 +2,8 @@
   "name": "testP90",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/Athuln/testP90.git",
+    "ssh": "git@github.com:Athuln/testP90.git",
     "branch": "block_testP90"
   },
   "dependencies": {
