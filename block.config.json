@@ -1,0 +1,36 @@
+{
+  "name": "testP90",
+  "type": "package",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_testP90"
+  },
+  "dependencies": {
+    "addTodo": {
+      "directory": "addTodo"
+    },
+    "listTodos": {
+      "directory": "listTodos"
+    },
+    "removeTodo": {
+      "directory": "removeTodo"
+    },
+    "todoInput": {
+      "directory": "todoInput"
+    },
+    "todoItem": {
+      "directory": "todoItem"
+    },
+    "todoContainer": {
+      "directory": "todoContainer"
+    }
+  },
+  "blockId": "QQ98JZyg0UjCvcxB1X7aG",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
